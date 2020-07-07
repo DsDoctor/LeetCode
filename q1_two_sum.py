@@ -8,4 +8,4 @@ def twoSum(nums, target):
 
 
 if __name__ == '__main__':
-    print(twoSum([-3,4,3,90], 0))
+    print(twoSum([-3, 4, 3, 90], 0))
